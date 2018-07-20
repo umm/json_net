@@ -11,7 +11,7 @@
 ## Install
 
 ```shell
-yarn add "umm-projects/json_net#^1.0.0"
+yarn add "umm/json_net#^1.0.0"
 ```
 
 ## Usage
